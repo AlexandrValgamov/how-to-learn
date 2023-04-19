@@ -106,12 +106,12 @@
 .two-columns__main-text {
   margin: 0;
   padding: 0;
-  list-style-type: none;
   width: 80%;
   min-width: 784px;
 }
 
 .two-columns__paragraph {
+  margin: 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -176,6 +176,10 @@
   padding-top: 60px;
 }
 
+.table__text:nth-child(3){
+  margin-top: 20px;
+}
+
 .table__heading {
   line-height: 1.15;
   font-size: 24px;
@@ -189,10 +193,6 @@
   font-size: 18px;
   font-weight: normal;
   margin: 0;
-}
-
-.table__text_space_top {
-  margin-top: 20px;
 }
 
 .feynman {
@@ -358,9 +358,6 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-}
-
-.footer__column-link_conten_social {
   display: flex;
   align-items: center;
 }
@@ -369,17 +366,4 @@
   padding-right: 10px;
   height: 16px;
   width: 16px;
-  background-repeat: no-repeat;
-}
-
-.footer__social-icon_name_youtube {
-  background-image: url(../images/youtube-icon.svg);
-}
-
-.footer__social-icon_name_vk {
-  background-image: url(../images/vk_color_white.svg);
-}
-
-.footer__social-icon_name_tiktok {
-  background-image: url(../images/tiktok-icon.svg);
 }
