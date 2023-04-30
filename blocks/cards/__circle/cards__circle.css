@@ -1,0 +1,8 @@
+.cards__circle {
+  box-sizing: border-box;
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+  overflow: hidden;
+  margin: 0 40px 43px;
+}
