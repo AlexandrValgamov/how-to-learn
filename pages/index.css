@@ -1,6 +1,8 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
+@import url(../blocks/rotation/rotation.css);
+
 /*  header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/page/__header/page__header.css);
@@ -86,6 +88,7 @@
 /* resources*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__logo-link/resources__logo-link.css);
 @import url(../blocks/resources/__link/resources__link.css);
 
 /*  footer  */
