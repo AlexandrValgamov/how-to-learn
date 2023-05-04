@@ -42,7 +42,7 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 
 /*  oakley  */
-@import url(../blocks/oackley/oakley.css);
+@import url(../blocks/oakley/oakley.css);
 
 /*  feynman  */
 @import url(../blocks/feynman/feynman.css);
@@ -68,6 +68,7 @@
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__author/khan__author.css);
 @import url(../blocks/khan/__title/khan__title.css);
+@import url(../blocks/khan/__quotation/khan__quotation.css);
 @import url(../blocks/khan/__quote/khan__quote.css);
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
@@ -86,8 +87,8 @@
 /* resources*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
-@import url(../blocks/resources/__logo-link/resources__logo-link.css);
 @import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
 
 /*  footer  */
 @import url(../blocks/footer/footer.css);
